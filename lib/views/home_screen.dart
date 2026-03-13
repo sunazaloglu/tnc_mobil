@@ -108,7 +108,7 @@ class _HomeScreenState extends State<HomeScreen> {
               SizedBox(height: 8),
 
               Text(
-                "Find your perfect device.",
+                "Find your perfect gift.",
                 style: TextStyle(fontSize: 16, color: Colors.grey),
               ),
 
